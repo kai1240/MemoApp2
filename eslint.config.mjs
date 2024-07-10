@@ -13,3 +13,4 @@ export default [
   pluginReactConfig,
 ];
 
+React/React-in-jsx-scope: 0
